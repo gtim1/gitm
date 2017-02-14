@@ -7,3 +7,4 @@ function f1(){
 }
 f1()();
 //第二次提交
+var obj = 'dd';
